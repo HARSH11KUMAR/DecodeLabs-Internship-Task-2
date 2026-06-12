@@ -1,0 +1,15 @@
+# PlatformIO Environment build targets
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+
+# IDE Project file exclusions
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS specific system files
+.DS_Store
+Thumbs.db
